@@ -6,7 +6,7 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background-size: 100% 100%;
-    background: #222 url('https://source.unsplash.com/1600x900/?landscape') no-repeat;
+    background: #222 url('https://source.unsplash.com/1600x1000/?landscape,nature,water') no-repeat;
     font-size: 120%;
 }
 
@@ -70,15 +70,15 @@ h1.temp {
     margin-left: 8px;
 }
 
-.weather.loading {
+.weather.yükleniyor {
     visibility: hidden;
     max-height: 20px;
     position: relative;
 }
 
-.weather.loading:after {
+.weather.yükleniyor:after {
     visibility: visible;
-    content: "Loading...";
+    content: "Yükleniyor....";
     color: white;
     position: absolute;
     top: 0;
