@@ -1,10 +1,11 @@
 # Weather-App
-Basic Weather app 
+Basic Weather app
 -------------------
+
 ## Ankara 
-![plot](./ss1.png)
+![plot](./ScreenShots/ss1.png)
 
 
 ## Oslo
-![plot](./ss2.png)
+![plot](./ScreenShots/ss2.png)
 
